@@ -14,8 +14,16 @@ materials:
   strength: 250
   requirements: 1
   flasher: IRON_BLOCK
+- name: IRON_BLOCK
+  strength: 2000
+  requirements: 1
+  flasher: IRON_BLOCK
 - name: DIAMOND
   strength: 1800
+  requirements: 1
+  flasher: DIAMOND_BLOCK
+- name: DIAMOND_BLOCK
+  strength: 14400
   requirements: 1
   flasher: DIAMOND_BLOCK
 additionalSecurable:
